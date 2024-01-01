@@ -1,6 +1,6 @@
 Written in QB64
 
-The main program will display the event of the day. In the case of
+The program will display the event of the day. In the case of
 multiple events for the same date, the program will choose 1 at random.
 
 The program classifies it's events into 6 categories that may be 
@@ -20,3 +20,6 @@ every day of the year (including leap years).
 
 Several add on paks are available at this time. It takes a lot of time to 
 write a data pak. More data paks may be released over time.
+
+today.exe (main program, program settings, add custom events)
+todaysa.exe (stand alone that just displays the daily events for use in start up or timer routines)
