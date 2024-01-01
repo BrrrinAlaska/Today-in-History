@@ -1,4 +1,4 @@
-he main program will display the event of the day. In the case of
+The main program will display the event of the day. In the case of
 multiple events for the same date, the program will choose 1 at random.
 
 The program classifies it's events into 6 categories that may be 
