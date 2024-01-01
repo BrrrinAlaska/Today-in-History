@@ -12,8 +12,13 @@ The birthday events do not include notorious criminals (though some are interest
 Several add on paks are available at this time. It takes a lot of time to write a data pak. More data paks may be released over time.
 
 today.exe (main program, program settings, add custom events)
+
 todaysa.exe (stand alone that just displays the daily events for use in start up or timer routines)
+
 history.dat (stored history data)
+
 sfx_0069.mp3 (sfx for program)
+
 install.log (keeps track of installed paks)
+
 read_me.txt (this file)
