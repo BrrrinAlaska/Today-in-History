@@ -1,3 +1,5 @@
+Written in QB64
+
 The main program will display the event of the day. In the case of
 multiple events for the same date, the program will choose 1 at random.
 
